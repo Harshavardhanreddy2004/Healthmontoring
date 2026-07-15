@@ -1,0 +1,4 @@
+- [ ] Update `activity_main.xml` to include a steps display
+- [ ] Implement `readStepsData()` in `MainActivity.kt`
+- [ ] Trigger data reading after permission check
+- [ ] Verify build and sync
